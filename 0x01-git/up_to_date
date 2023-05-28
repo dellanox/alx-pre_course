@@ -1,0 +1,5 @@
+git pull origin master
+ls
+cd 0x01-git
+touch up_to_date
+echo "up_to_date" > up_to_date
